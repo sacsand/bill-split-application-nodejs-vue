@@ -1,0 +1,16 @@
+this application consist with two main part. 
+
+	1) nodeJS Server(Back)
+	2) Angular Web App (Front)
+
+
+Hosting
+
+1) Create Droplet Ubuntu (AWS or other)
+2) Install NodeJS, GIT , nginx , pm2
+3) clone repo
+4) run server side with pm2
+5) npm run build
+6) create virtual host using nginx for server and front-end
+7) restart nginx
+8) done

@@ -1,0 +1,5 @@
+
+1) USE JWT token for vaidate api request . have user model to identify the each user.
+2) instead of json input create interface to enter daily bill informations.
+3) use database to track data 
+

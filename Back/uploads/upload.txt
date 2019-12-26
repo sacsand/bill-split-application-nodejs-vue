@@ -1,0 +1,17 @@
+{"data":[
+{"day":1,
+"amount":50,
+"paidBy":"tanu",
+"friends":["kasun","tanu"]
+},
+{"day":2,
+"amount":100,
+"paidBy":"kasun",
+"friends":["kasun","tanu","shakeel"]
+},
+{"day":3,
+"amount":100,
+"paidBy":"shakeel",
+"friends":["shakeel","tanu","shakeel"]
+}
+]}
